@@ -1,0 +1,22 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "Prueba de bo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "bot",
+    "bot",
+    "framework",
+    "sdk",
+    "microsoft"
+  ],
+  "author": "Alfredo Valdes",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.0.1"
+  }
+}
